@@ -31,6 +31,7 @@ In addition to Arduino, the library can be ported to any hardware platforms as l
 -	ESP8266-12			(Tested) (http://www.arducam.com/downloads/ESP8266_UNO/package_ArduCAM_index.json)
 *	Feather M0              (Tested with OV5642)
 
+
 Note: ArduCAM library for ESP8266 is maintained with another repository [ESP8266](https://github.com/ArduCAM/ArduCAM_ESP8266_UNO) using josn board manager script. <br>
 
 ## Libraries Structure
